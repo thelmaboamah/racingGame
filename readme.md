@@ -16,3 +16,5 @@ A two-player car racing game using key presses.
 ## Future features
 * More audio
 * Multiplayer
+
+[Demo](http://thelma.codes/racingGame/) 
